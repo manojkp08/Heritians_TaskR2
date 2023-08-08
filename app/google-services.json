@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109712856328",
+    "project_id": "round2task",
+    "storage_bucket": "round2task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109712856328:android:46552993a41100b2ab88bd",
+        "android_client_info": {
+          "package_name": "com.example.round2task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109712856328-397v0bkgjh6ht76h48ubp74a4u5u808s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX0-22MGNwvivIsxIEm5wLGW2JUstMd5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109712856328-397v0bkgjh6ht76h48ubp74a4u5u808s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
